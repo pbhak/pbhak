@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently mastering **React and frontend logic**
 
-- 👨‍💻 All of my projects are available at [(portfolio coming...soon?)]((portfolio coming...soon?))
+- 👨‍💻 All of my projects are available at (portfolio coming...soon?)
 
 - 💬 Ask me about **what the odin project is**
 
