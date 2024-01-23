@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm midnight0s</h1>
 <h3 align="center">A aspiring frontend developer aiming for full stack</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=midnight0s&label=Profile%20views&color=0e75b6&style=flat" alt="midnight0s" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=midnight0s" alt="midnight0s" /></a> </p>
-
 - 🔭 I’m currently working on [The Odin Project course](https://www.theodinproject.com/)
 
 - 🌱 I’m currently mastering **React and frontend logic**
