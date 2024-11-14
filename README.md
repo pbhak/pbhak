@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm midnight0s</h1>
+<h1 align="center">Hi 👋, I'm Parneel</h1>
 <h3 align="center">A aspiring frontend developer aiming for full stack</h3>
 
 - 🔭 I’m currently working on [The Odin Project course](https://www.theodinproject.com/)
