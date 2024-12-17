@@ -1,1 +1,0 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=100&duration=3800&pause=100&color=0CE82B&center=true&multiline=true&width=1920&height=384&lines=Hi+there!;My+name+is+Parneel+Bhakhri;Welcome+to+my+README!)](https://git.io/typing-svg)
