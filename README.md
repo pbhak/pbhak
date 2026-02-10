@@ -1,6 +1,6 @@
 <h1 align="center">hi, i'm parneel!</h1>
 
-howdy! i occasionally work on cool stuff here :D (you can usually see what i'm up to on [my site](pbhak.dev))
+howdy! i occasionally work on cool stuff here :D (you can usually see what i'm up to on [my site](https://pbhak.dev))
 
 here, have some stats:
 
